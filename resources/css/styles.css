@@ -1,0 +1,4 @@
+.invalid-field .x-form-label { color: red; }
+
+.errorfield { font-size: 0.75em; }
+.errorfield ul { margin: 10px; }
